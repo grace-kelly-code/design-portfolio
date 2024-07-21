@@ -1,1 +1,1 @@
-[design-portfolio.pdf](https://github.com/user-attachments/files/16322306/design-portfolio.pdf)
+[View Portfolio](https://github.com/gracielilykelly/design-portfolio/blob/main/design-portfolio.pdf)
